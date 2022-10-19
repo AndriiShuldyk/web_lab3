@@ -1,0 +1,39 @@
+body{
+margin:0px; 
+padding:0px;
+}
+.tg  {
+border-collapse:collapse;
+border-spacing:0; 
+width:100%;
+text-align: center;
+}
+.tg td{
+font-family:Arial, sans-serif;
+font-size:15px;
+overflow:hidden;
+padding:10px 20px;
+word-break:normal;
+ }
+.tg th{
+font-family:Arial, sans-serif;
+font-size:14px;
+font-weight:normal;
+overflow:hidden;
+padding:10px 20px;
+word-break:normal;
+ }
+.tg .tg-0lax{
+text-align:left;
+vertical-align:top
+}
+.tg .tg-02ax{
+text-align:left;
+vertical-align:top; 
+background-color:#0E3684;
+color: white;
+}
+.tg .tg-03ax{
+text-align:left;
+vertical-align:middle
+}
